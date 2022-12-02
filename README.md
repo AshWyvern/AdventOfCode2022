@@ -5,4 +5,4 @@ All programs done in C# using Visual Studio 2022. Files used are attached. Text 
 # Days Completed:
 Day 1 (Dec 1) - Done Part 1 + 2
 
-Day 2 (Dec 2) - WIP
+Day 2 (Dec 2) - Done Part 1 + 2
