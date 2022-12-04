@@ -10,3 +10,5 @@ Day 1 (Dec 1) - Done Part 1 + 2
 Day 2 (Dec 2) - Done Part 1 + 2
 
 Day 3 (Dec 3) - Done Part 1, 2 WIP
+
+Day 4 (Dec 4) - 
